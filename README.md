@@ -1,2 +1,2 @@
-# Primeiro-site-com-Javascript
-Primeira página criada com essa formosa linguagem &lt;3
+<h1>Primeira Página com Javascript<h1>
+<p>Criada durante o bootcamp da Orbi, na plataforma Dio</p>
